@@ -196,6 +196,8 @@ section {
 }
 
 h1[id^="title-"] {
+    padding-bottom: 100px;
+    padding-top: 200px;
     text-align: center;
     margin: 2rem 0;
     font-size: clamp(1.5rem, 5vw, 2rem);
